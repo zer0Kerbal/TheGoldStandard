@@ -9,7 +9,7 @@ updated: 2020 03 17
 ### ***Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [CKAN][MOD:rel-ckan], or [Curseforge][MOD:rel-curseforge]***  
 
 # The Gold Standard (TGS)  
-#### Adopted by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@Dewar][LINK:snoopy20111]
+#### Adopted by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@Dewar][LINK:dewar]
 ##### Salutations! May the sunlight always be upon you!
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]  
@@ -19,7 +19,7 @@ updated: 2020 03 17
 ***
 ![IMG:hero:0]  
 ![IMG:hero:1]  
-### Preamble by [@Snoopy 20111][LINK:dewar]: 
+### Preamble by [@Dewar][LINK:dewar]: 
 > This small mod adds a couple new scientific instruments (such as the one pictured here) which do science specifically around the most wondrous body in the Kerbol system. Both of these instruments are based upon instruments currently aboard the SOHO and STEREO spacecraft. It also adds a few new flags.  
   
 
