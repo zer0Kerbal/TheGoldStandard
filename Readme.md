@@ -169,7 +169,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/TheGoldStandard?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/mod.json
 [shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/ksp.json
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json
+[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black
 [shield:kspavc]:  https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
 [shield:ckan]: https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
