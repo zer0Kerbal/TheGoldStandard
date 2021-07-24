@@ -2,25 +2,26 @@
 The Gold Standard (TGS)
 created: 01 Oct 19
 updated: 2020 03 17
+-->
+### Download on [Curseforge][MOD:curseforge] or [Github][MOD:github] or [CKAN][MOD:ckan], or ~~[SpaceDock][MOD:spacedock]~~  
 
 # KerbGuise Experimental engineering (KGEx)
-#### Brings you:
- -->
-### ***Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [CKAN][MOD:rel-ckan], or [Curseforge][MOD:rel-curseforge]***  
+#### Brings you: 
 
 # The Gold Standard (TGS)  
 #### Adopted by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@Dewar][LINK:dewar]
 ##### This mod adds the pursuit of gold and an extremely rare resource called Unobtainium to the game!
 ![Mod Version][shield:mod:latest] 
-![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]  
+![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LICENSE:logo]  
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Validate AVC .version files][shield:avcvalid]  
-### A science part mod that adds two Deep Space Solar Experiments to Kerbal Space Program.
+### This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
 ***
 ![IMG:hero:0]  
 ![IMG:hero:1]  
 ### Preamble by [@Dewar][LINK:dewar]: 
 #### Now with full SCANsat and Galileo's Planet Pack Compatibility!)
+#### Now with SMX support!
 
 ### This mod adds the pursuit of gold and an extremely rare resource called Unobtainium to the game!
 - Gold Ore now appears on planets/moons
@@ -55,7 +56,7 @@ updated: 2020 03 17
 ***
 ### Installation Directions:
 - Use CKAN  
-![][image:rel-ckan]
+![][image:ckan]
 ### Changelog Summary
 - *See [ChangeLog][MOD:changelog] for full details of mod changes*
 ### Known Issues
@@ -89,13 +90,19 @@ updated: 2020 03 17
 - [x] [B9 Stock Switches][thread:B9S]  
 - [x] [HotBeverages][thread:HB!]  
 - [x] [Contract Configurator][thread:cc]  
+- [x] [Stockalike Mining Expansion (SMX)][thread:smx]
 ### Supports
 - [x] [Kerbal Changelog][thread:kcl]  
 - [x] [SCANsat][thread:scnst]  
 - [x] [Galileo Planet Pack][thread:gpp]  
 - [x] [Kopernicus][thread:kop] 
+- [x] [Stockalike Mining Expansion (SMX)][thread:smx]
 ### Conflicts
-- none known
+- none
+### Replaces
+- none
+### Tags
+- parts, addon, resources, config
 ***  
 *red box below is a link to forum post on how to get support*  
 [![How to get support][image:get-support]][thread:getsupport]
@@ -103,20 +110,20 @@ updated: 2020 03 17
 ### License
 #### aka Legal Mumbo Jumbo
 Source: [GitHub][MOD:github:repo]  
-License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4] 
+License: ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LLICENSE:logo] 
 > *** All bundled mods are distributed under their own licenses***<br>
 > *** All art assets (textures, models, animations) are distributed under their own licenses*** 
 ### Original
 [Thread][MOD:original:thread]  
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
-License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]  
+License: ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LLICENSE:logo]  
 <!-- graphical links to downloads -->
-[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge]  
+[![][image:curseforge]][MOD:curseforge] [![][image:github]][MOD:github] [![][image:spacedock]][MOD:spacedock]  
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
-###### v1.6.0.0 original: 01 Oct 2019 zed'K | updated: 17 Mar 2020 zed'K
+###### v1.6.0.0 original: 01 Oct 2019 zed'K | updated: 24 Jul 2021 zed'K
 
 [MOD:license]:https://github.com/zer0Kerbal/TheGoldStandard/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md
@@ -128,53 +135,53 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [MOD:forum]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
 
 <!--- release links -->
-[MOD:rel-github]:     https://github.com/zer0Kerbal/TheGoldStandard/releases/latest "GitHub"  
-[MOD:rel-spacedock]:  http://spacedock.info/mod/963  "SpaceDock"  
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/TheGoldStandard "CurseForge"  
-[MOD:rel-ckan]:       https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
+[MOD:github]:     https://github.com/zer0Kerbal/TheGoldStandard/releases/latest "GitHub"  
+[MOD:spacedock]:  http://spacedock.info/mod/963  "SpaceDock"  
+[MOD:curseforge]: https://www.curseforge.com/kerbal/ksp-mods/TheGoldStandard "CurseForge"  
+[MOD:ckan]:       https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
 
 <!--- original mod -->
 [MOD:original:download]: https://spacedock.info/mod/963
 [MOD:original:source]: https://spacedock.info/mod/963
 [MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/149125-*
-[LINK:dewar]:   https://forum.kerbalspaceprogram.com/index.php?/profile/107737-dewar/
+[LINK:dewar]:   https://forum.kerbalspaceprogram.com/index.php?/profile/107737-dewar/ "Dewar"  
 
 <!--- statics -->
-[LINK:zer0Kerbal]:https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/  
-[KSP:website]: http://kerbalspaceprogram.com/  
+[LINK:zer0Kerbal]:https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"  
+
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*  
 
-<!--- license logos -->
-[LOGO:mit]:     https://i.postimg.cc/bvjfsMP5/MIT-17x17.png
-[LOGO:gplv3]:   https://i.postimg.cc/90kCDs7K/gplv3-48x17.png
+<!-- Kerbal Space Program -->
+[KSP:website]: http://kerbalspaceprogram.com/  
 
-[LOGO:ccbysa4]:   https://licensebuttons.net/l/by-sa/4.0/80x15.png
-[LOGO:ccbyncsa4]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png
+<!--- license  -->
+[LICENSE:logo]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "CC BY-NC-SA 4.0"  
+[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black
 
 <!--- misc logos -->
-[image:rel-github]:     https://i.imgur.com/RE4Ppr9.png
-[image:rel-spacedock]:  https://i.imgur.com/m0a7tn2.png
-[image:rel-curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
+[image:github]:     https://i.imgur.com/RE4Ppr9.png
+[image:spacedock]:  https://i.imgur.com/m0a7tn2.png
+[image:curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
 [image:get-support]:    https://i.postimg.cc/vHP6zmrw/image.png
 
-[image:rel-ckan]:  https://i.postimg.cc/x8XSVg4R/sj507JC.png
+[image:ckan]:  https://i.postimg.cc/x8XSVg4R/sj507JC.png
 [image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png
 [image:source]:    https://i.postimg.cc/tJ8GqW0H/source.png
 
-[image:rel-github-sm]:     https://i.postimg.cc/1XXy5yfD/github.png
-[image:rel-spacedock-sm]:  https://i.postimg.cc/DZ22Hrhj/spacedock.png
-[image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
+[image:github-sm]:     https://i.postimg.cc/1XXy5yfD/github.png
+[image:spacedock-sm]:  https://i.postimg.cc/DZ22Hrhj/spacedock.png
+[image:curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
 <!--- header shields -->
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/TheGoldStandard?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/mod.json
 [shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/ksp.json
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black
+
 [shield:kspavc]:  https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
-[shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
+[shield:spacedock]:  https://img.shields.io/badge/SpaceDock-Listed-blue.svg?style=plastic
 [shield:ckan]: https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:  https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
-[shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
+[shield:curseforge]: https://img.shields.io/badge/CurseForge-Listed-blue.svg?style=plastic
 [shield:avcvalid]: https://github.com/zer0Kerbal/TheGoldStandard/workflows/Validate%20AVC%20.version%20files/badge.svg
 
 <!-- zer0Kerbal mods -->
@@ -217,9 +224,9 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager" 
 [thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"  
 [thread:scnst]: http://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANsat"  
-[thread:gpp]:   https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"  
-[thread:kop]:   https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"  
-
+[thread:gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"  
+[thread:kop]: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"  
+[thread:smx]: http://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)"  
 
 [IMG:hero:0]: http://
 [IMG:hero:1]: http://
