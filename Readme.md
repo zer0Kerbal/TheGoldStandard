@@ -59,7 +59,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 *** 
   
 ## How to support 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Support][PATREON:img]][PATREON:url] [![Support][GSPONS:img]][GSPONS:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+[![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
    
 *** 
 ### Discussions: 
@@ -251,9 +251,9 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 
 <!-- financial support -->
 [PAYPAL:img]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY
+[PAYPAL:url]: https://paypal.me/zer0Kerbal?locale.x=en_US
 
-# https://paypal.me/zer0Kerbal?locale.x=en_US
+# https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY
 
 {PATREON:img]: https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon "Patreon"  
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"  
