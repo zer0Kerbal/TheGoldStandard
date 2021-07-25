@@ -60,9 +60,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
   
 ## How to support 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Support][PATREON:img]][PATREON:url] [![Support][GSPONS:img]][GSPONS:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
-  
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zer0Kerbal" data-color="#40DCA5" data-emoji="🛰️"  data-font="Cookie" data-text="Buy me a snack" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>  
-  
+   
 *** 
 ### Discussions: 
 *See [Discussions][MOD:disc] or [KSP Forums][MOD:forums] for discussions and news on this mod* 
@@ -259,7 +257,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 {PATREON:img]: https://badobsessionmotorsport.co.uk/wp-content/uploads/2020/02/become-a-patron-button-e1580857462719.png  
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503
 
-![https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon]
+![][https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon]
 
 [GSPONS:img]: https://img.shields.io/badge/Github%20Sponsor-zer0Kerbal-blue?style=for-the-badge&logo=github "Github Sponsors"  
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"  
@@ -267,21 +265,13 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [BMCC:img]: https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=50  "Buy Me A Snack"  
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal
 
-https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee
-
-#<a href="https://www.patreon.com/bePatron?u=23390503" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-# https://cdn.buymeacoffee.com/buttons/v2/default-green.png "Buy Me A Snack"  
-# https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=100&name=BMC+crew
-
-# <form action="https://www.paypal.com/donate" method="post" target="_top">
-# <input type="hidden" name="hosted_button_id" value="R9ACWD7VREBCY" />
-# <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-# <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-# </form>
+![][https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee]
 
 
-# <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zer0Kerbal" data-color="#40DCA5" data-emoji="🛰️"  data-font="Cookie" data-text="Buy me a snack" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+
+
+
 <!--
 this file: GPLv2
 zer0Kerbal-->
