@@ -3,7 +3,7 @@ The Gold Standard (TGS)
 created: 01 Oct 2019
 updated: 24 Jul 2021 -->  
 
-## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. Also available on [CKAN][CKAN:url].  
+## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or ~~[SpaceDock][SPCDCK:url]~~. Also available on [CKAN][CKAN:url].  
 
 # KerbGuise Experimental engineering (KGEx)
 #### Brings you:
@@ -11,10 +11,11 @@ updated: 24 Jul 2021 -->
 #### Adopted for curation by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@Dewar][LINK:dewar]
 ##### This mod adds the pursuit of gold and an extremely rare resource called Unobtainium to the game!
 ![Mod Version][MOD:shld:latest] 
-![KSP version][KSP:shld] ![KSP-AVC][AVC:shld] ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LICENSE:logo]  
+![KSP version][KSP:shld] ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LICENSE:logo]  
 
  [![Curseforge][CURSFG:shld]][CURSFG:url] [![CKAN][CKAN:shld]][CKAN:url] [![GitHub][GITHUB:shld]][GITHUB:url] [![SpaceDock][SPCDCK:shld]][SPCDCK:url]  
-![Validate AVC .version files][AVCVLD:shld]  
+ 
+![KSP-AVC][AVC:shld] ![Validate AVC .version files][AVCVLD:shld]  
 ### This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
 ***
 ![IMG:hero:0]  
@@ -77,7 +78,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url]  ***may*** work on other versions (YMMV)
 - [x] [Module Manager][thread:mm]  
-### Recomends  
+### Recommends  
 - [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url]
 ### Suggests
 - [x]  [SimpleLogistics!][thread:SL!]  
