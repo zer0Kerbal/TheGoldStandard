@@ -63,7 +63,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
    
 *** 
 ### Discussions: 
-*See [Discussions][MOD:disc] or [KSP Forums][MOD:forums] for discussions and news on this mod* 
+*See [Discussions][MOD:disc] or [KSP Forums][MOD:threads] for discussions and news on this mod* 
 *** 
 ### Changelog Summary  
 - *See [ChangeLog][MOD:clog] for full details of mod changes*  
@@ -75,7 +75,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 - Use   
 [![CKAN][CKAN:img]][CKAN:url]
 ### Dependencies
-- [x] [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url] ***may*** work on other versions (YMMV)
+- [x] [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url]  ***may*** work on other versions (YMMV)
 - [x] [Module Manager][thread:mm]  
 ### Recomends  
 - [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url]
@@ -121,15 +121,15 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 *red box below is a link to forum post on how to get support*  
 [![How to get support][SUPPORT:img]][SUPPORT:thread]  
 ### Legal Mumbo Jumbo
-#### Current
-Forum: [MOD:thread]  
+#### Current  
+Forum: Thread][MOD:thread]  
 Source: [GitHub][GITHUB:url]  
 License: [![License CC BY-NC-SA 4.0][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo] ][LICENSE:url]  
 > *** All bundled mods are distributed under their own licenses***<br>
 > *** All art assets (textures, models, animations) are distributed under their own licenses*** 
 #### Original
-Thread: [MOD:orig:thread]  
-Download: [MOD:orig:download]  
+Forum: [Thread][MOD:orig:thread]  
+Download: {Link][MOD:orig:download]  
 Source: [GitHub][MOD:orig:source]  
 License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][LICENSE:orig:logo] ][LICENSE:orig:url]   
 
@@ -146,7 +146,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [MOD:clog]: https://github.com/zer0Kerbal/TheGoldStandard/Changelog.cfg "Changelog"  
 [MOD:disc]: https://github.com/zer0Kerbal/TheGoldStandard/discussions "Discussions"  
 [MOD:known]:  https://github.com/zer0Kerbal/TheGoldStandard/wiki/Known-Issues "Known Issues" 
-[MOD:forum]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-* "Mod Forum Thread"  
+[MOD:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-* "Mod Forum Thread"  
 [MOD:issues]:  https://github.com/zer0Kerbal/TheGoldStandard/issues "Known Issues"  
 [MOD:contrib]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md "Contributing"  
 [LINK:localization]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/GameData/TheGoldStandard/Localization/readme.md "Localization"  
