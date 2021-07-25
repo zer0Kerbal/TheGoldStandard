@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
  "label": "Code",
- "labelColor": "darkblue",
- "message": "<no code> <> <KSP Part, Module Manager>",
- "color": "66ccff",
+ "labelColor": "66ccff",
+ "message": "<KSP Part, Module Manager>",
+ "color": "darkblue",
  "style": "plastic"
 }
