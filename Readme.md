@@ -66,7 +66,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 *See [Discussions][MOD:disc] or [KSP Forums][MOD:forums] for discussions and news on this mod* 
 *** 
 ### Changelog Summary  
-- *See [ChangeLog]MOD:clog] for full details of mod changes*  
+- *See [ChangeLog][MOD:clog] for full details of mod changes*  
 ***  
 ### Known Issues
 - *See [Known Issues][MOD:known] for full details of feature requests, and known issues*
@@ -149,7 +149,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [MOD:forum]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-* "Mod Forum Thread"  
 [MOD:issues]:  https://github.com/zer0Kerbal/TheGoldStandard/issues "Known Issues"  
 [MOD:contrib]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md "Contributing"  
-
+[LINK:localization]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/GameData/TheGoldStandard/Localization/readme.md "Localization"  
 [MOD:shld:latest]: https://img.shields.io/github/v/release/zer0Kerbal/TheGoldStandard?include_prereleases?style=plastic  
 [MOD:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/mod.json  
 
@@ -159,7 +159,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [CKAN:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"  
 [CKAN:shld]: https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic "CKAN"  
 
-[AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic "AVC"  
+[AVC:shld]:  https://img.shields.io/badge/AVC-Supported-brightgreen.svg?style=plastic "AVC"  
 [AVCVLD:shld]: https://github.com/zer0Kerbal/TheGoldStandard/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid"  
 
 <!--- original mod -->
@@ -182,11 +182,11 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 <!--- license  -->
 [LICENSE:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
 [LICENSE:logo]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "CC BY-NC-SA 4.0"  
-[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black "CC BY-NC-SA 4.0"  
+[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=white "CC BY-NC-SA 4.0"  
 
 [LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
 [LICENSE:orig:logo]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "CC BY-NC-SA 4.0"  
-[LICENSE:orig:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black "CC BY-NC-SA 4.0"  
+[LICENSE:orig:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=white "CC BY-NC-SA 4.0"  
 
 
 <!--- misc logos -->
@@ -200,7 +200,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/TheGoldStandard "Curseforge"  
 [CURSFG:img]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png "Curseforge"  
-[CURSFG:shld]: https://img.shields.io/badge/CurseForge-Listed-blue.svg?style=plastic&logo=curseforge&logoColor=6441A4 "Curseforge"  
+[CURSFG:shld]: https://img.shields.io/badge/CurseForge-Listed-blue.svg?style=plastic&logo=curseforge "Curseforge"  
 
 <!-- other mods -->
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"  
