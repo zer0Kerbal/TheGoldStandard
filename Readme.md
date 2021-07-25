@@ -267,7 +267,9 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [BMCC:img]: https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=50  "Buy Me A Snack"  
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal
 
-<a href="https://www.patreon.com/bePatron?u=23390503" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee
+
+#<a href="https://www.patreon.com/bePatron?u=23390503" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 # https://cdn.buymeacoffee.com/buttons/v2/default-green.png "Buy Me A Snack"  
 # https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=100&name=BMC+crew
