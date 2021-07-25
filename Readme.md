@@ -253,7 +253,8 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 
 <!-- financial support -->
 [PAYPAL:img]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
-[PAYPAL:url]: https://paypal.me/zer0Kerbal?locale.x=en_US
+[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY
+# https://paypal.me/zer0Kerbal?locale.x=en_US
 
 {PATREON:img]: 
 [PATREON:url]: 
