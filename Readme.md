@@ -30,7 +30,7 @@ updated: 24 Jul 2021 -->
 - Gold is heavier than Gold Ore, which is heavier than Ore
 - Full integration with Vanilla drills and scanners
 - Vanilla Drills and Surface Scanner available slightly earlier in the tech tree
-- Only 8 parts (Under 10Mb download), low memory usage.
+- Only 8 parts (just over 3Mb download), low memory usage.
 - Get over that mid-career fund grind in a fun and challenging way!
 
 ### What is Unobtainium?
@@ -252,25 +252,17 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 <!-- financial support -->
 [PAYPAL:img]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY
+
 # https://paypal.me/zer0Kerbal?locale.x=en_US
 
-{PATREON:img]: https://badobsessionmotorsport.co.uk/wp-content/uploads/2020/02/become-a-patron-button-e1580857462719.png  
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503
+{PATREON:img]: https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon "Patreon"  
+[PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"  
 
-![][https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon]
-
-[GSPONS:img]: https://img.shields.io/badge/Github%20Sponsor-zer0Kerbal-blue?style=for-the-badge&logo=github "Github Sponsors"  
+[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-blue?style=for-the-badge&logo=github "Github Sponsors"  
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"  
 
-[BMCC:img]: https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=50  "Buy Me A Snack"  
-[BMCC:url]: https://buymeacoffee.com/zer0Kerbal
-
-![][https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee]
-
-
-
-
-
+[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"  
+[BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"  
 
 <!--
 this file: GPLv2
