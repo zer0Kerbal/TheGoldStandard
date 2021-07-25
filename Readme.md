@@ -17,8 +17,9 @@ updated: 24 Jul 2021 -->
  
 ![KSP-AVC][AVC:shld] ![Validate AVC .version files][AVCVLD:shld]  
 ### This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
-***
-![IMG:hero:0]  
+***  
+  
+![Hero Image][IMG:hero:0]  
 
 ### Preamble by [@Dewar][LINK:dewar]: 
 #### Now with SMX support!
@@ -163,6 +164,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [AVC:shld]:  https://img.shields.io/badge/AVC-Supported-brightgreen.svg?style=plastic "AVC"  
 [AVCVLD:shld]: https://github.com/zer0Kerbal/TheGoldStandard/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid"  
 
+[IMG:hero:0]: https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/img/HeroLogo_1920x1920%20(Large)_1.png "Hero"  
 <!--- original mod -->
 [MOD:orig:download]: https://spacedock.info/mod/963 "SpaceDock"  
 [MOD:orig:source]: https://spacedock.info/mod/963 "SpaceDock"  
@@ -188,7 +190,6 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
 [LICENSE:orig:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
 [LICENSE:orig:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=white "CC BY-NC-SA 4.0"  
-
 
 <!--- misc logos -->
 [GITHUB:url]: https://github.com/zer0Kerbal/TheGoldStandard/ "GitHub"  
