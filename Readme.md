@@ -185,8 +185,8 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black "CC BY-NC-SA 4.0"  
 
 [LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
-[LICENSE:orig:logo]: (https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
-[LICENSE:orig:shld]]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black "CC BY-NC-SA 4.0"  
+[LICENSE:orig:logo]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "CC BY-NC-SA 4.0"  
+[LICENSE:orig:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black "CC BY-NC-SA 4.0"  
 
 
 <!--- misc logos -->
@@ -251,20 +251,20 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [thread:KBM]: https:// "KaboOom!"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack-grey?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"  
-# https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif "PayPal"  
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-00457C?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"  
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY "PayPal"  
-
-# https://paypal.me/zer0Kerbal?locale.x=en_US
 
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon "Patreon"  
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"  
 
-[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-blue?style=for-the-badge&logo=github "Github Sponsors"  
+[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors "Github Sponsors"  
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"  
 
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"  
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"  
+
+<!-- https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif "PayPal"  
+https://paypal.me/zer0Kerbal?locale.x=en_US -->
 
 <!--
 this file: GPLv2
