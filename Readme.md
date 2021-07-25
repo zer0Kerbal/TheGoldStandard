@@ -148,7 +148,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [MOD:clog]: https://github.com/zer0Kerbal/TheGoldStandard/Changelog.cfg "Changelog"  
 [MOD:disc]: https://github.com/zer0Kerbal/TheGoldStandard/discussions "Discussions"  
 [MOD:known]:  https://github.com/zer0Kerbal/TheGoldStandard/wiki/Known-Issues "Known Issues" 
-[MOD:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-* "Mod Forum Thread"  
+[MOD:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/203990-* "Mod Forum Thread"  
 [MOD:issues]:  https://github.com/zer0Kerbal/TheGoldStandard/issues "Known Issues"  
 [MOD:contrib]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md "Contributing"  
 [LINK:localization]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/GameData/TheGoldStandard/Localization/readme.md "Localization"  
