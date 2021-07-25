@@ -256,16 +256,20 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY
 # https://paypal.me/zer0Kerbal?locale.x=en_US
 
-{PATREON:img]: 
-[PATREON:url]: 
+{PATREON:img]: https://badobsessionmotorsport.co.uk/wp-content/uploads/2020/02/become-a-patron-button-e1580857462719.png  
+[PATREON:url]: https://www.patreon.com/bePatron?u=23390503
 
-[GSPONS:img]: 
-[GSPONS:url]: 
+![https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon]
+
+[GSPONS:img]: https://img.shields.io/badge/Github%20Sponsor-zer0Kerbal-blue?style=for-the-badge&logo=github "Github Sponsors"  
+[GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"  
 
 [BMCC:img]: https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=50  "Buy Me A Snack"  
-# https://cdn.buymeacoffee.com/buttons/v2/default-green.png "Buy Me A Snack"  
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal
 
+<a href="https://www.patreon.com/bePatron?u=23390503" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+# https://cdn.buymeacoffee.com/buttons/v2/default-green.png "Buy Me A Snack"  
 # https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=100&name=BMC+crew
 
 # <form action="https://www.paypal.com/donate" method="post" target="_top">
