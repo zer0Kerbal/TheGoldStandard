@@ -262,7 +262,8 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [GSPONS:img]: 
 [GSPONS:url]: 
 
-[BMCC:img]: https://cdn.buymeacoffee.com/buttons/v2/default-green.png "Buy Me A Snack"  
+[BMCC:img]: https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=100 
+# https://cdn.buymeacoffee.com/buttons/v2/default-green.png "Buy Me A Snack"  
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal
 
 # https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=100&name=BMC+crew
