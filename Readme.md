@@ -1,27 +1,27 @@
-<!-- Readme.md v1.0.2.0
+<!-- Readme.md v1.3.3.0
 The Gold Standard (TGS)
-created: 01 Oct 19
-updated: 2020 03 17
--->
-### Download on [Curseforge][MOD:curseforge] or [Github][MOD:github] or [CKAN][MOD:ckan], or ~~[SpaceDock][MOD:spacedock]~~  
+created: 01 Oct 2019
+updated: 24 Jul 2021 -->  
+
+## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. Also available on [CKAN][CKAN:thr].  
 
 # KerbGuise Experimental engineering (KGEx)
-#### Brings you: 
-
+#### Brings you:
 # The Gold Standard (TGS)  
-#### Adopted by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@Dewar][LINK:dewar]
+#### Adopted for curation by [@zer0Kerbal][LINK:zer0Kerbal], originally by [@Dewar][LINK:dewar]
 ##### This mod adds the pursuit of gold and an extremely rare resource called Unobtainium to the game!
-![Mod Version][shield:mod:latest] 
-![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LICENSE:logo]  
-![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
-![Validate AVC .version files][shield:avcvalid]  
+![Mod Version][MOD:shld:latest] 
+![KSP version][KSP:shld] ![KSP-AVC][AVC:shld] ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LICENSE:logo]  
+
+ [![Curseforge][CURSFG:shld]][CURSFG:url] [![CKAN][CKAN:shld]][CKAN:url] [![GitHub][GITHUB:shld]][GITHUB:url] [![SpaceDock][SPCDCK:shld]][SPCDCK:url]  
+![Validate AVC .version files][AVCVLD:shld]  
 ### This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
 ***
 ![IMG:hero:0]  
-![IMG:hero:1]  
+
 ### Preamble by [@Dewar][LINK:dewar]: 
-#### Now with full SCANsat and Galileo's Planet Pack Compatibility!)
 #### Now with SMX support!
+#### Now with full SCANsat and Galileo's Planet Pack Compatibility!)
 
 ### This mod adds the pursuit of gold and an extremely rare resource called Unobtainium to the game!
 - Gold Ore now appears on planets/moons
@@ -41,62 +41,77 @@ updated: 2020 03 17
 - Finally a monetary reason to land on Eeloo, Eve, Moho/Icarus, or any of the other seldom visited worlds!
 
 - This mod is not meant to be an easy cash cow; rather, a difficult alternative to contract spam.
-- There is no gold on kerbin, and be careful when choosing a mining site as only deposits of >2% (mini drill) or >1.5% (large drill) will yield gold ore.
-- The gold ore can be returned for an okish profit, but be aware that gold ore is basically 9/10s ore. So there are obvious benefits to smelting in-situ. The Smelter needs power, cooling, and an engineer to function at its full capacity.
-- Pure Gold is, by design and irl, HEAVY! 
+- There is no gold on Kerbin, and be careful when choosing a mining site as only deposits of >2% (mini drill) or >1.5% (large drill) will yield gold ore.
+- The gold ore can be returned for an okay-ish profit, but be aware that gold ore is basically 9/10s ore. So there are obvious benefits to smelting in-situ. The Smelter needs power, cooling, and an engineer to function at its full capacity.
+- Pure Gold is, by design and IRL, HEAVY! 
 - Feel free to post any working ship/base designs!
 - Note on returning with your space booty: Land near or on the space center to avoid diminished returns.
 
-#### Planned Features
-- Will be adding one more resource beyond Kerbin's influence
-- Community Tech Tree integration
+#### Cabin notes:   
+- WIP - work in progress 
+- Am open to adding one more resource beyond Kerbin's influence, great project for someone!
+- Community Tech Tree integration and Tech Tree Balancing (need feedback)
 - Further Weight/Cost Balancing (need feedback)
-
-![IMG:hero:2]  
-***
-### Installation Directions:
-- Use CKAN  
-![][image:ckan]
-### Changelog Summary
-- *See [ChangeLog][MOD:changelog] for full details of mod changes*
+- I have not personally tested the patches   
+- Have a request? Glad to have them, kindly submit through GitHub. 
+*** 
+See the [README in the Localization folder][LINK:localization] for instructions for adding or improving translations for languages other than English. GitHub push is the best way to contribute.
+*** 
+  
+## How to support 
+[![Support][PAYPAL:img]][PAYPAL:url] [![Support][PATREON:img]][PATREON:url] [![Support][GSPONS:img]][GSPONS:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+  
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zer0Kerbal" data-color="#40DCA5" data-emoji="🛰️"  data-font="Cookie" data-text="Buy me a snack" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>  
+  
+*** 
+### Discussions: 
+*See [Discussions][MOD:disc] or [KSP Forums][MOD:forums] for discussions and news on this mod* 
+*** 
+### Changelog Summary  
+- *See [ChangeLog]MOD:clog] for full details of mod changes*  
+***  
 ### Known Issues
 - *See [Known Issues][MOD:known] for full details of feature requests, and known issues*
+*** 
+### Installation Directions:
+- Use   
+[![CKAN][CKAN:img]][CKAN:thr]
 ### Dependencies
-- [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
+- [x] [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url] ***may*** work on other versions (YMMV)
 - [x] [Module Manager][thread:mm]  
 ### Recomends  
-- [x] [ Comprehensive Kerbal Archive Network (CKAN)][MOD:rel-ckan]
+- [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:thr]
 ### Suggests
-- [x] [SimpleLogistics!][thread:SL!]  
-- [x] [SimpleConstructon!][thread:SC!]  
-- [x] [Not So SimpleConstructon!][thread:NSSC]  
-- [x] [Biomatic][thread:BIO]  
-- [x] [Docking Port Descriptions][thread:DPD]  
-- [x] [Shielded PicoPort][thread:PPS]  
-- [x] [On Demand Fuel Cells][thread:ODFC]  
-- [x] [Field Training Facility][thread:FTF]  
-- [x] [Field Training Lab][thread:FTL]  
-- [x] [Transparent Command Pods][thread:TCP]  
-- [x] [Nuke Tiny Parts][thread:NUK]  
-- [x] [Scrap Yard][thread:SYD]  
-- [x] [DaMichel's AeroRadial][thread:DAR]  
-- [x] [DaMichel's CargoBays][thread:DCB]  
-- [x] [DaMichel's Fuselage][thread:DMF]  
-- [x] [DaMichel's Spherical Tanks][thread:DST]  
-- [x] [Deadly Reentry Lite][thread:DRELite]  
-- [x] [Vanguard][thread:VG0]  
-- [x] [ProbiTronics][thread:PRB]  
-- [x] [CTN][thread:CTN]  
-- [x] [B9 Stock Switches][thread:B9S]  
-- [x] [HotBeverages][thread:HB!]  
-- [x] [Contract Configurator][thread:cc]  
-- [x] [Stockalike Mining Expansion (SMX)][thread:smx]
+- [x]  [SimpleLogistics!][thread:SL!]  
+- [x]  [SimpleConstructon!][thread:SC!]  
+- [x]  [Not So SimpleConstructon!][thread:NSSC]  
+- [x]  [Biomatic][thread:BIO]  
+- [x]  [Docking Port Descriptions][thread:DPD]  
+- [x]  [Shielded PicoPort][thread:PPS]  
+- [x]  [On Demand Fuel Cells][thread:ODFC]  
+- [x]  [Field Training Facility][thread:FTF]  
+- [x]  [Field Training Lab][thread:FTL]  
+- [x]  [Transparent Command Pods][thread:TCP]  
+- [x]  [Nuke Tiny Parts][thread:NUK]  
+- [x]  [Scrap Yard][thread:SYD]  
+- [x]  [DaMichel's AeroRadial][thread:DAR]  
+- [x]  [DaMichel's CargoBays][thread:DCB]  
+- [x]  [DaMichel's Fuselage][thread:DMF]  
+- [x]  [DaMichel's Spherical Tanks][thread:DST]  
+- [x]  [Deadly Reentry Lite][thread:DRELite]  
+- [x]  [Vanguard][thread:VG0]  
+- [x]  [ProbiTronics][thread:PRB]  
+- [x]  [CTN][thread:CTN]  
+- [x]  [B9 Stock Switches][thread:B9S]  
+- [x]  [HotBeverages][thread:HB!]  
+- [x]  [Contract Configurator][thread:cc]  
+- [x]  [Stockalike Mining Expansion (SMX)][thread:smx]
 ### Supports
-- [x] [Kerbal Changelog][thread:kcl]  
-- [x] [SCANsat][thread:scnst]  
-- [x] [Galileo Planet Pack][thread:gpp]  
-- [x] [Kopernicus][thread:kop] 
-- [x] [Stockalike Mining Expansion (SMX)][thread:smx]
+- [x]  [Kerbal Changelog][thread:kcl]  
+- [x]  [SCANsat][thread:scnst]  
+- [x]  [Galileo Planet Pack][thread:gpp]  
+- [x]  [Kopernicus][thread:kop] 
+- [x]  [Stockalike Mining Expansion (SMX)][thread:smx]
 ### Conflicts
 - none
 ### Replaces
@@ -104,85 +119,103 @@ updated: 2020 03 17
 ### Tags
 - parts, addon, resources, config
 ***  
-*red box below is a link to forum post on how to get support*  
-[![How to get support][image:get-support]][thread:getsupport]
 
-### License
-#### aka Legal Mumbo Jumbo
-Source: [GitHub][MOD:github:repo]  
-License: ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LLICENSE:logo] 
+*red box below is a link to forum post on how to get support*  
+[![How to get support][SUPPORT:img]][SUPPORT:thread]  
+### Legal Mumbo Jumbo
+#### Current
+Forum: [MOD:thread]  
+Source: [GitHub][GITHUB:url]  
+License: [![License CC BY-NC-SA 4.0][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo] ][LICENSE:url]  
 > *** All bundled mods are distributed under their own licenses***<br>
 > *** All art assets (textures, models, animations) are distributed under their own licenses*** 
-### Original
-[Thread][MOD:original:thread]  
-[Download][MOD:original:download]  
-Source: [GitHub][MOD:original:source]  
-License: ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LLICENSE:logo]  
+#### Original
+Thread: [MOD:orig:thread]  
+Download: [MOD:orig:download]  
+Source: [GitHub][MOD:orig:source]  
+License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][LICENSE:orig:logo] ][LICENSE:orig:url]   
+
 <!-- graphical links to downloads -->
-[![][image:curseforge]][MOD:curseforge] [![][image:github]][MOD:github] [![][image:spacedock]][MOD:spacedock]  
+[![][CURSFG:img]][CURSFG:url] [![][GITHUB:img]][GITHUB:url] [![][SPCDCK:img]][SPCDCK:url]  
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
 ###### v1.6.0.0 original: 01 Oct 2019 zed'K | updated: 24 Jul 2021 zed'K
 
 [MOD:license]:https://github.com/zer0Kerbal/TheGoldStandard/blob/master/LICENSE
-[MOD:contributing]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md
-[MOD:issues]: https://github.com/zer0Kerbal/TheGoldStandard/issues
-[MOD:wiki]:https://github.com/zer0Kerbal/TheGoldStandard/
+
+[MOD:wiki]: https://github.com/zer0Kerbal/TheGoldStandard/
+[MOD:clog]: https://github.com/zer0Kerbal/TheGoldStandard/Changelog.cfg
 [MOD:known]:  https://github.com/zer0Kerbal/TheGoldStandard/wiki/Known-Issues
-[MOD:github:repo]:  https://github.com/zer0Kerbal/TheGoldStandard/
-[MOD:changelog]: https://github.com/zer0Kerbal/TheGoldStandard/Changelog.cfg
 [MOD:forum]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
+[MOD:issues]:  https://github.com/zer0Kerbal/TheGoldStandard/issues
+[MOD:contrib]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md
+
+[MOD:shld:latest]: https://img.shields.io/github/v/release/zer0Kerbal/TheGoldStandard?include_prereleases?style=plastic  
+[MOD:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/mod.json  
 
 <!--- release links -->
-[MOD:github]:     https://github.com/zer0Kerbal/TheGoldStandard/releases/latest "GitHub"  
-[MOD:spacedock]:  http://spacedock.info/mod/963  "SpaceDock"  
-[MOD:curseforge]: https://www.curseforge.com/kerbal/ksp-mods/TheGoldStandard "CurseForge"  
-[MOD:ckan]:       https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
+
+[CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"  
+[CKAN:thr]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"  
+[CKAN:shld]: https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic "CKAN"  
+
+[AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic "AVC"  
+[AVCVLD:shld]: https://github.com/zer0Kerbal/TheGoldStandard/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid"  
 
 <!--- original mod -->
-[MOD:original:download]: https://spacedock.info/mod/963
-[MOD:original:source]: https://spacedock.info/mod/963
-[MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/149125-*
+[MOD:orig:download]: https://spacedock.info/mod/963 "SpaceDock"  
+[MOD:orig:source]: https://spacedock.info/mod/963 "SpaceDock"  
+[MOD:orig:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/149125-* "Original Thread"
+
 [LINK:dewar]:   https://forum.kerbalspaceprogram.com/index.php?/profile/107737-dewar/ "Dewar"  
 
 <!--- statics -->
 [LINK:zer0Kerbal]:https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"  
 
-[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*  
+[SUPPORT:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "How to get support"  
+[SUPPORT:img]:    https://i.postimg.cc/vHP6zmrw/image.png
 
 <!-- Kerbal Space Program -->
-[KSP:website]: http://kerbalspaceprogram.com/  
+[KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"  
+[KSP:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/ksp.json "Kerbal Space Program"  
 
 <!--- license  -->
+[LICENSE:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
 [LICENSE:logo]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "CC BY-NC-SA 4.0"  
-[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black
+[LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black "CC BY-NC-SA 4.0"  
+
+[LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
+[LICENSE:orig:logo]: (https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
+[LICENSE:orig:shld]]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=black "CC BY-NC-SA 4.0"  
+
 
 <!--- misc logos -->
-[image:github]:     https://i.imgur.com/RE4Ppr9.png
-[image:spacedock]:  https://i.imgur.com/m0a7tn2.png
-[image:curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
-[image:get-support]:    https://i.postimg.cc/vHP6zmrw/image.png
+[GITHUB:url]: https://github.com/zer0Kerbal/TheGoldStandard/ "GitHub"  
+[GITHUB:img]: https://i.imgur.com/RE4Ppr9.png "GitHub"  
+[GITHUB:shld]: https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github "GitHub"  
 
-[image:ckan]:  https://i.postimg.cc/x8XSVg4R/sj507JC.png
-[image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png
-[image:source]:    https://i.postimg.cc/tJ8GqW0H/source.png
+[SPCDCK:url]: http://spacedock.info/mod/936 "SpaceDock"   
+[SPCDCK:img]: https://i.imgur.com/m0a7tn2.png "SpaceDock"  
+[SPCDCK:shld]:  https://img.shields.io/badge/SpaceDock-Listed-blue.svg?style=plastic  "SpaceDock"  
 
-[image:github-sm]:     https://i.postimg.cc/1XXy5yfD/github.png
-[image:spacedock-sm]:  https://i.postimg.cc/DZ22Hrhj/spacedock.png
-[image:curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
-  
-<!--- header shields -->
-[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/TheGoldStandard?include_prereleases?style=plastic
-[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/mod.json
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/ksp.json
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/TheGoldStandard "Curseforge"  
+[CURSFG:img]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png "Curseforge"  
+[CURSFG:shld]: https://img.shields.io/badge/CurseForge-Listed-blue.svg?style=plastic&logo=curseforge&logoColor=6441A4 "Curseforge"  
 
-[shield:kspavc]:  https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
-[shield:spacedock]:  https://img.shields.io/badge/SpaceDock-Listed-blue.svg?style=plastic
-[shield:ckan]: https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
-[shield:github]:  https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
-[shield:curseforge]: https://img.shields.io/badge/CurseForge-Listed-blue.svg?style=plastic
-[shield:avcvalid]: https://github.com/zer0Kerbal/TheGoldStandard/workflows/Validate%20AVC%20.version%20files/badge.svg
+<!-- other mods -->
+[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"  
+[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
+[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
+[thread:mm]:  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager" 
+[thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"  
+[thread:scnst]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANsat"  
+[thread:gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"  
+[thread:kop]: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"  
+[thread:smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)"  
+
+[IMG:hero:0]: https://media.forgecdn.net/avatars/410/442/637627053072558618.png "The Gold Standard"  
+[IMG:hero:3]: https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_2018_03/5ab1cbd340610_TGS-Black.thumb.png.df1f006da968549e1f3c39d98a46e50f.png
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
@@ -190,11 +223,11 @@ License: ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LLICENSE:logo]
 [thread:FTL]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Lab"
 [thread:MHH]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"
 [thread:TCP]:  https://forum.kerbalspaceprogram.com/index.php?/topic/187495-* "Transparent Command Pods"
-[thread:NUK]:  https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*  "Nuke's Tiny Parts"  
-[thread:OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Oh Scrap!"  
-[thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Scrap Yard"  
-[thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions"  
-[thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-* "Shielded PicoPort"  
+[thread:NUK]:  https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*  "Nuke's Tiny Parts"
+[thread:OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Oh Scrap!"
+[thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Scrap Yard"
+[thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions"
+[thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-* "Shielded PicoPort"
 [thread:DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks"
 [thread:DMF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Fuselage"
 [thread:DAR]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's AeroRadial"
@@ -204,34 +237,47 @@ License: ![License CC BY-NC-SA 4.0][LICENSE:shld] ![][LLICENSE:logo]
 [thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
 [thread:NSSC]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"
 [thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"
-[thread:VG0]:  http:// "Vanguard"
-[thread:PRB]:  http:// "ProbiTronics"
-[thread:CTN]:  http:// "CTN"
-[thread:B9S]:  http:// "B9 Stock Switches"
-[thread:HB!]:  http:// "HotBeverages"
-[thread:DRELite]: http:// "DeadlyReentry Lite"  
-[thread:AIM]: http:// "LandingAim"  
-[thread:GFC]: http:// "G-Force"
-[thread:SIL]: http:// "Stock Inline Lights"  
-[thread:SILP]: http:// "Stock Inline Lights Patches"
-[thread:JET]: http:// "Jettison"  
-[thread:KBM]: http:// "KaboOom!"  
+[thread:VG0]:  https:// "Vanguard"
+[thread:PRB]:  https:// "ProbiTronics"
+[thread:CTN]:  https:// "CTN"
+[thread:B9S]:  https:// "B9 Stock Switches"
+[thread:HB!]:  https:// "HotBeverages"
 
-<!-- other mods -->
-[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"  
-[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
-[thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
-[thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager" 
-[thread:cc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/91625-* "Contract Configurator"  
-[thread:scnst]: http://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANsat"  
-[thread:gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"  
-[thread:kop]: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"  
-[thread:smx]: http://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)"  
+[thread:DRELite]: https:// "DeadlyReentry Lite"
+[thread:AIM]: https:// "LandingAim"
+[thread:GFC]: https:// "G-Force"
+[thread:SIL]: https:// "Stock Inline Lights"
+[thread:SILP]: https:// "Stock Inline Lights Patches"
+[thread:JET]: https:// "Jettison"
+[thread:KBM]: https:// "KaboOom!"
 
-[IMG:hero:0]: http://
-[IMG:hero:1]: http://
-[IMG:hero:3]: https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/monthly_2018_03/5ab1cbd340610_TGS-Black.thumb.png.df1f006da968549e1f3c39d98a46e50f.png
+<!-- financial support -->
+[PAYPAL:img]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
+[PAYPAL:url]: https://paypal.me/zer0Kerbal?locale.x=en_US
 
+{PATREON:img]: 
+[PATREON:url]: 
+
+[GSPONS:img]: 
+[GSPONS:url]: 
+
+[BMCC:img]: https://cdn.buymeacoffee.com/buttons/v2/default-green.png" "Buy Me A Snack"  
+[BMCC:url]: https://buymeacoffee.com/zer0Kerbal
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="R9ACWD7VREBCY" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+# <form action="https://www.paypal.com/donate" method="post" target="_top">
+# <input type="hidden" name="hosted_button_id" value="R9ACWD7VREBCY" />
+# <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+# <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+# </form>
+
+
+# <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zer0Kerbal" data-color="#40DCA5" data-emoji="🛰️"  data-font="Cookie" data-text="Buy me a snack" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <!--
 this file: GPLv2
 zer0Kerbal-->
