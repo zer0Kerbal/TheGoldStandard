@@ -142,12 +142,13 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 
 [MOD:license]:https://github.com/zer0Kerbal/TheGoldStandard/blob/master/LICENSE
 
-[MOD:wiki]: https://github.com/zer0Kerbal/TheGoldStandard/
-[MOD:clog]: https://github.com/zer0Kerbal/TheGoldStandard/Changelog.cfg
-[MOD:known]:  https://github.com/zer0Kerbal/TheGoldStandard/wiki/Known-Issues
-[MOD:forum]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
-[MOD:issues]:  https://github.com/zer0Kerbal/TheGoldStandard/issues
-[MOD:contrib]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md
+[MOD:wiki]: https://github.com/zer0Kerbal/TheGoldStandard/ "Wiki"  
+[MOD:clog]: https://github.com/zer0Kerbal/TheGoldStandard/Changelog.cfg "Changelog"  
+[MOD:disc]: https://github.com/zer0Kerbal/TheGoldStandard/discussions "Discussions"  
+[MOD:known]:  https://github.com/zer0Kerbal/TheGoldStandard/wiki/Known-Issues "Known Issues" 
+[MOD:forum]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192456-* "Mod Forum Thread"  
+[MOD:issues]:  https://github.com/zer0Kerbal/TheGoldStandard/issues "Known Issues"  
+[MOD:contrib]: https://github.com/zer0Kerbal/TheGoldStandard/blob/master/.github/CONTRIBUTING.md "Contributing"  
 
 [MOD:shld:latest]: https://img.shields.io/github/v/release/zer0Kerbal/TheGoldStandard?include_prereleases?style=plastic  
 [MOD:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/mod.json  
@@ -250,10 +251,11 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [thread:KBM]: https:// "KaboOom!"
 
 <!-- financial support -->
-[PAYPAL:img]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
-[PAYPAL:url]: https://paypal.me/zer0Kerbal?locale.x=en_US
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack-grey?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"  
+# https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif "PayPal"  
+[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY "PayPal"  
 
-# https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY
+# https://paypal.me/zer0Kerbal?locale.x=en_US
 
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon "Patreon"  
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"  
