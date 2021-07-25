@@ -262,14 +262,10 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 [GSPONS:img]: 
 [GSPONS:url]: 
 
-[BMCC:img]: https://cdn.buymeacoffee.com/buttons/v2/default-green.png" "Buy Me A Snack"  
+[BMCC:img]: https://cdn.buymeacoffee.com/buttons/v2/default-green.png "Buy Me A Snack"  
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="R9ACWD7VREBCY" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+# https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMC8xMC82MWEwMmE2YTYxNDIyZjE3MThiMmRmYzYwZGI5MzU5Mi5wbmc=&size=100&name=BMC+crew
 
 # <form action="https://www.paypal.com/donate" method="post" target="_top">
 # <input type="hidden" name="hosted_button_id" value="R9ACWD7VREBCY" />
