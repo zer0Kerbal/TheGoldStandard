@@ -1,5 +1,5 @@
 {
-    "NAME"           : "The Gold Standard",
+    "NAME"           : "The Gold Standard (GOLD)",
     "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/TheGoldStandard.version",
     "DOWNLOAD"       : "https://github.com/zer0Kerbal/TheGoldStandard/releases/latest",
     "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/Changelog.cfg",
@@ -19,8 +19,8 @@
     "KSP_VERSION" :
     {
         "MAJOR" : 1,
-        "MINOR" : 7,
-        "PATCH" : 3
+        "MINOR" : 11,
+        "PATCH" : 2
     },
     "KSP_VERSION_MIN" :
     {
@@ -31,7 +31,7 @@
     "KSP_VERSION_MAX" :
     {
         "MAJOR" : 1,
-        "MINOR" : 7,
+        "MINOR" : 12,
         "PATCH" : 9999
     },
     "INSTALL_LOC" :

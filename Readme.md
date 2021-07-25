@@ -1,4 +1,4 @@
-<!-- Readme.md v1.3.3.0
+<!-- Readme.md v1.4.0.0
 The Gold Standard (TGS)
 created: 01 Oct 2019
 updated: 24 Jul 2021 -->  
@@ -182,7 +182,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 
 <!--- license  -->
 [LICENSE:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
-[LICENSE:logo]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "CC BY-NC-SA 4.0"  
+[LICENSE:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
 [LICENSE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/license.json&logo=creativecommons&logoColor=white "CC BY-NC-SA 4.0"  
 
 [LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC-BY-NC-SA-4.0"  
