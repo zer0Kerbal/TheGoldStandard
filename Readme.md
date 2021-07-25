@@ -255,7 +255,7 @@ License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][
 
 # https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY
 
-{PATREON:img]: https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon "Patreon"  
+[PATREON:img]: https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon "Patreon"  
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"  
 
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-blue?style=for-the-badge&logo=github "Github Sponsors"  
