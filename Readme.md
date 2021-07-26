@@ -3,7 +3,7 @@ The Gold Standard (TGS)
 created: 01 Oct 2019
 updated: 24 Jul 2021 -->  
 
-## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or ~~[SpaceDock][SPCDCK:url]~~. Also available on [CKAN][CKAN:url].  
+## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. Also available on [CKAN][CKAN:url].  
 
 # KerbGuise Experimental engineering (KGEx)
 #### Brings you:
@@ -65,7 +65,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
    
 *** 
 ### Discussions: 
-*See [Discussions][MOD:disc] or [KSP Forums][MOD:threads] for discussions and news on this mod* 
+*See [Discussions][MOD:disc] or [KSP Forums][MOD:thread] for discussions and news on this mod* 
 *** 
 ### Changelog Summary  
 - *See [ChangeLog][MOD:clog] for full details of mod changes*  
@@ -77,8 +77,8 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 - Use   
 [![CKAN][CKAN:img]][CKAN:url]
 ### Dependencies
-- [x] [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url]  ***may*** work on other versions (YMMV)
-- [x] [Module Manager][thread:mm]  
+- [x]  [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url]  ***may*** work on other versions (YMMV)
+- [x]  [Module Manager][thread:mm]  
 ### Recommends  
 - [x]  [Comprehensive Kerbal Archive Network (CKAN)][CKAN:url]
 ### Suggests
