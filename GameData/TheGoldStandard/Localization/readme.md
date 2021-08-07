@@ -12,7 +12,7 @@ Note: Even though you will appear to be editing the project's files, don't worry
 
 It is recommended to make your changes on your own computer at first so you can test them before uploading, especially if you are creating a new translation from scratch.
 
-1. Install the [current release](https://github.com/HebaruSan/PlanningNode/releases/latest) if you have not already
+1. Install the [current release](https://github.com/zer0Kerbal/TheGoldStandard//releases/latest) if you have not already
 2. Open your `Kerbal Space Program/GameData/PlanningNode/Localization` folder on your local disk
 3. Look for a file called *lang*.cfg, where *lang* is KSP's name for your locale; as of KSP 1.3, this includes:
     - en-us (English)
@@ -77,7 +77,7 @@ If you do not use Steam, I don't know the steps to choose a language. Contact SQ
 After you have prepared a `cfg` file for your language and confirmed that it works as you intend, if you are willing to contribute it for redistribution under the GPLv3 license, follow these steps to upload it for inclusion in the main mod distribution:
 
 1. Log in to [Github](https://github.com); you may need to register an account if you do not already have one
-2. Navigate to the [Localization folder](https://github.com/HebaruSan/PlanningNode/tree/master/GameData/PlanningNode/Localization)
+2. Navigate to the [Localization folder](https://github.com/zer0Kerbal/TheGoldStandard//tree/master/GameData/TheGoldStandard/Localization)
 3. Look for the file you edited
 
 The remaining steps are different depending on whether the file already exists:
