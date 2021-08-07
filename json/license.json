@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
  "label": "License",
- "labelColor": "blueviolet",
+ "labelColor": "black",
  "message": "CC-BY-NC-SA-4.0",
- "color": "darkgrey",
+ "color": "EF9421",
  "style": "plastic"
 }
