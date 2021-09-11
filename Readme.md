@@ -126,7 +126,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 #### Current  
 Forum: [Thread][MOD:thread]  
 Source: [GitHub][GITHUB:url]  
-License: [![License CC BY-NC-SA 4.0][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo] ][LICENSE:url]  
+License: [![License CC BY-NC-SA 4.0][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo]][LICENSE:url]  
 > *** All bundled mods are distributed under their own licenses***<br>
 > *** All art assets (textures, models, animations) are distributed under their own licenses*** 
 #### Original
