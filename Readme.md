@@ -222,6 +222,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 > License: [![License CC BY-NC-SA 4.0][LICENSE:orig:shld]][LICENSE:orig:url] [![][LICENSE:orig:logo]][LICENSE:orig:url]
 
 -----
+<!-- graphical links to downloads -->
 
 [![][CURSFG:img]][CURSFG:url] [![][GITHUB:img]][GITHUB:url] [![][SPCDCK:img]][SPCDCK:url]  
 
