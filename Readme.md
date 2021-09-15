@@ -1,5 +1,5 @@
 <!-- Readme.md v1.5.3.1
-The Gold Standard (TGS)
+The Gold Standard (GOLD)
 created: 17 Jul 18
 updated: 14 Sep 2021 -->
 
@@ -13,7 +13,7 @@ updated: 14 Sep 2021 -->
 
 #### Brings you
 
-# The Gold Standard (TGS)  
+# The Gold Standard (GOLD)  
 
 This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
 
