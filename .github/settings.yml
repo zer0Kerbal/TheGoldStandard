@@ -13,7 +13,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-*
 
   # A comma-separated list of topics to set on the repository
-  topics: gold, goldore, unobtanium, resource, github, mod, kerbal, kerbalspaceprogram, ksp, ksp-mods, kerbal-space, kerbal-space-program, kerbal-mods, zer0Kerbal, zedk
+  topics: gold, goldore, unobtanium, resource, isru, kerbal, kerbalspaceprogram, ksp, ksp-mods, kerbal-space, kerbal-space-program, kerbal-mods, zedk
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
