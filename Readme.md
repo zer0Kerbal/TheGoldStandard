@@ -163,8 +163,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 #### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal] 
 
-> Forum: [Thread][MOD:thread] - Source: [GitHub][GITHUB:url]   
-> License: [![License CC BY-NC-SA 4.0][LIC:shld]][LIC:url]  
+> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]   
+> License: [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 
 > ##### Disclaimer(s)
 >
@@ -173,8 +173,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 #### Original (0) - Author: [`Dewar`][LINK:dewar]  
 
-> [Thread][MOD:orig:0:thread]  - [Download][MOD:orig:0:download] - Source: [GitHub][MOD:orig:0:source]  
-> License: [![License CC BY-NC-SA 4.0][LIC:orig:shld]][LICENSE:orig:url] [![][LIC:orig:logo]][LICENSE:orig:url]
+> [Thread][MOD:orig:thread]  - [Download][MOD:orig:download] - Source: [GitHub][MOD:orig:source]  
+> License: [![License CC BY-NC-SA 4.0][LIC:orig:shd]][LIC:orig:url] [![][LIC:orig:logo]][LIC:orig:url]
 
 <!-- mod links -->
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-* "TheGoldStandard Forum Thread"
