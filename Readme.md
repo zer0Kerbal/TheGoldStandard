@@ -238,7 +238,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:QBTT]: https://forum.kerbalspaceprogram.com/index.php?/topic/204750-* "ISRU Thanks But No Tanks (KBTT)"  
 [thread:ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-* "Olympic1's ARP Icons"  
 [thread:BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-* "KaboOom!"
-[thread:GOLD]: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-* "[The Gold Standard! (GOLD
+[thread:GOLD]: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-* "[The Gold Standard! (GOLD"
 [thread:KDVA]: http://forum.kerbalspaceprogram.com/index.php?/topic/202945-* "Keridian Dynamics Vessel Assembly (KDVA)"
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
 [thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
