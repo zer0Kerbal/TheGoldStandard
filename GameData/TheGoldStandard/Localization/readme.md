@@ -1,3 +1,10 @@
+<!--Readme.md v2.0.0.0  -->
+<!--Localization project  -->
+<!--created:   --> 
+<!--updated: 30 Aug 2021  -->
+
+<!--from: @HebruSan (thank you) ![link](https://github.com/HebaruSan/Astrogator/tree/master/assets/lang)  -->
+
 # Translating to your language
 
 ![Languages supported by KSP 1.3: English, Spanish, Chinese, Russian, Japanese](https://i.imgur.com/DbCCJWK.png)
@@ -8,12 +15,30 @@ Unfortunately, I only speak English, and I maintain this mod for free. This mean
 
 Note: Even though you will appear to be editing the project's files, don't worry about making mistakes. Github will keep your changes separate from the main files until I have verified that they are OK to use. It is even possible for me to ask questions or request changes before your work is committed to the main files.
 
+## Languages Supported by Kerbal Space Program as of 1.12.2
+- [ ]  [![American English][EN]][EN] [American English][EN] <en-us.cfg>  
+- [ ]  [![Brasil][BR]][BR] [Brazilian][BR] <pt-br.cfg>  
+- [ ]  [![中文][CN]][CN] [Chinese (中文)][CN] <zh-cn.cfg>  
+- [ ]  [![Deutsch][DE]][DE] [German (Deutsch)][DE]  
+- [ ]  [![Español][ES]][ES] [Spanish (Español)][ES]  
+- [ ]  [![Français][FR]][FR] [French (Français)][FR] <fr-fr.cfg>  
+- [ ]  [![Italiano][IT]][IT] [Italian (Italiano)][IT] <it-it.cfg>  
+- [ ]  [![日本語][JA]][JA] [Japanese(日本語)][JA] <ja.cfg>  
+- [ ]  [![한국어][KO]][KO] [Korean (한국어)][KO] <ko.cfg>  
+- [ ]  [![Mexicano][ME]][ME] [Mexican (Mexicano)][ME] <es-mx.cfg>  
+- [ ]  [![Dutch][NL]][NL] [Dutch][NL] <nl-nl.cfg>  
+- [ ]  [![Norsk][NO]][NO] [Norwegian (Norsk)][NO] <no-no.cfg>  
+- [ ]  [![Polski][PO]][PO] [Polish (Polski)][PO] <pl.cfg>  
+- [ ]  [![Русский][RU]][RU] [Russian (Русский)][RU] <ru.cfg>  
+- [ ]  [![Svenska][SW]][SW] [Swedish (Svenska)][SW] <sw-sw.cfg>  
+- [ ]  [![国语][TW]][TW] [Taiwanese (国语)][TW] <zh-tw.cfg>  
+
 ## Creating or editing a translation
 
 It is recommended to make your changes on your own computer at first so you can test them before uploading, especially if you are creating a new translation from scratch.
 
-1. Install the [current release](https://github.com/zer0Kerbal/TheGoldStandard//releases/latest) if you have not already
-2. Open your `Kerbal Space Program/GameData/PlanningNode/Localization` folder on your local disk
+1. Install the current release of xxx mod if you have not already
+2. Open your `Kerbal Space Program/GameData/xxxMod/Localization` folder on your local disk
 3. Look for a file called *lang*.cfg, where *lang* is KSP's name for your locale; as of KSP 1.3, this includes:
     - en-us (English)
     - es-es (Spanish)
@@ -48,7 +73,7 @@ Follow these steps to start your own translation from scratch:
 
 The middle part of the `cfg` file contains the strings to translate. The format is `name = translation`, where the name is a special string defined by the mod. For example:
 
-    PlanningNode_mainTitle = Planning Node
+    #launchSubtitle = Transfers from <<1>>\n(Launch ~<<2>>)
 
 Do **not** change the part to the left of the equals sign ("=")! These names must be the same in every language file.
 
@@ -56,10 +81,14 @@ The part to the right of the equals sign is the string to be used in-game. Most 
 
 | String | Purpose |
 | --- | --- |
-| `\n` | Line break; try to preserve these based on the original strings to make sure the strings will fit |
-| `<<1>>` | The first substitutable token in the string, will be replaced by a number, name of a planet, etc., depending on the string |
-| `<<2>>` | Second token, and so on |
-| `<<A:1>>` | The first token, but substituted with a proper article |
+| \n | Line break; try to preserve these based on the original strings to make sure the strings will fit |
+| <<1>> | The first substitutable token in the string, will be replaced by a number, name of a planet, etc., depending on the string |
+| <<2>> | Second token, and so on |
+| <<A:1>> | The first token, but substituted with a proper article |
+
+For example, this is a possible translation of the above line into Spanish, courtesy of Google Translate:
+
+    #launchSubtitle = Transferencias desde <<1>>\n(Lanzamiento ~<<2>>)
 
 ### Testing
 
@@ -68,16 +97,16 @@ It's important to make sure that your changes work correctly. If you use Steam:
 1. [Select the language to use in Steam](https://www.youtube.com/watch?v=iBwYCvQxfeI)
 2. Wait for the language pack download to complete
 3. Run KSP
-4. Use Planning Node and make sure your changes appear as you intended
+4. Use the xxxMod ingame and make sure your changes appear as you intended
 
 If you do not use Steam, I don't know the steps to choose a language. Contact SQUAD if you can't figure it out.
 
 ## Contributing your translation for others to use
 
-After you have prepared a `cfg` file for your language and confirmed that it works as you intend, if you are willing to contribute it for redistribution under the GPLv3 license, follow these steps to upload it for inclusion in the main mod distribution:
+After you have prepared a `cfg` file for your language and confirmed that it works as you intend, if you are willing to contribute it for redistribution under the xxxModd's license, follow these steps to upload it for inclusion in the main mod distribution:
 
 1. Log in to [Github](https://github.com); you may need to register an account if you do not already have one
-2. Navigate to the [Localization folder](https://github.com/zer0Kerbal/TheGoldStandard//tree/master/GameData/TheGoldStandard/Localization)
+2. Navigate to the xxxMod's Localization folder
 3. Look for the file you edited
 
 The remaining steps are different depending on whether the file already exists:
@@ -110,3 +139,26 @@ Once you finish your changes, Github will send me a notification that a pull req
 If I have any questions about specific changes you've made, I will add them to the pull request, which should trigger a notification to you. Please try to respond to these in as timely a manner as you can manage. Your pull request may be closed without merging if you do not reply for a long time.
 
 Once all the questions and comments are resolved to my satisfaction, your changes will be merged into the main files and included in the next release. I will also add your Github name to the Acknowledgements section of the README file.
+
+
+
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
+[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
+
+<!-- CC BY-ND-3.0 unported  -->
+<!-- zer0Kerbal  -->
