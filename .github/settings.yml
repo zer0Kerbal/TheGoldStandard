@@ -7,7 +7,7 @@ repository:
   name: TheGoldStandard
 
   # A short description of the repository that will show up on GitHub
-  description: This mod adds the pursuit of space gold and an extremely rare resource called Unobtanium to the game! This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
+  description: This resource part mod adds the pursuit of space gold and an extremely rare resource called Unobtanium to the game! Adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-*
@@ -206,8 +206,8 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: Version 1.6.3.0
-    description: Gold Pans ReStocked
+  - title: Version 1.6.4.0
+    description: focusing on part variants and B9
     # The state of the milestone. Either `open` or `closed`
     state: open
 
@@ -225,7 +225,7 @@ milestones:
     
   - title: localization - Spanish (Español) <es-es.cfg>
     description: progress toward Spanish (Español) <es-es.cfg> localization
-    state: open
+    state: closed
     
   - title: localization - Mexican (Mexicano) <es-mx.cfg>
     description: progress toward Mexican (Mexicano) <es-mx.cfg> localization
@@ -265,7 +265,7 @@ milestones:
     
   - title: localization - Russian (Русский) <ru.cfg>
     description: progress toward Russian (Русский) <ru.cfg> localization
-    state: open
+    state: closed
     
   - title: localization - Taiwanese (国语) <zh-tw.cfg>
     description: progress toward Taiwanese (国语) <zh-tw.cfg> localization
