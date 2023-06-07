@@ -17,17 +17,33 @@ updated: 27 Jul 2021
 
 ## Version 1.6.2.1 - 2022-01-23 [KSP 1.12.2]
 
-* closes 51 - Add es-es.cfg- contributed by Fitiales
-* closes 52 - Localization - Russian (Русский) <ru.cfg> - contributed by zer0Kerbal
-* closes 11 - Localization  duplicate
-* closes 20 - `TheGoldStandard.version` :congratulations: bug -  contributed by zer0Kerbal
-* closes 23 - Localization - zh-cn.cfg - Simplified Chinese duplicate
-* closes 24 - Localization - pt-br.cfg Brazil duplicate
-* closes 25 - Localization - en-us.cfg (English) duplicate
-* closes 26 - Localization - duplicate
-* closes 28 - Localization - [Taiwanese (国语))][TW] <zh-tw.cfg>   duplicate
-* closes 29 - Localization - [Simplified Chinese (简体中文))][CN] <zh-cn.cfg>  duplicate
-* closes 30 - Localization - [Swedish (Svenska)][SW] <sw-sw.cfg>    duplicate
+
+### Status
+
+* Issues 
+  * closes #20 - `TheGoldStandard.version` :congratulations: bug -  contributed by zer0Kerbal
+  * closes #23 - Localization - zh-cn.cfg - Simplified Chinese duplicate
+  * closes #24 - Localization - pt-br.cfg Brazil duplicate
+  * closes #25 - Localization - en-us.cfg (English) duplicate
+  * closes #26 - Localization - duplicate
+  * closes #28 - Localization - [Taiwanese (国语))][TW] <zh-tw.cfg>   duplicate
+  * closes #29 - Localization - [Simplified Chinese (简体中文))][CN] <zh-cn.cfg>  duplicate
+  * closes #30 - Localization - [Swedish (Svenska)][SW] <sw-sw.cfg>    duplicate
+  * closes #51 - Add es-es.cfg- contributed by Fitiales
+  * closes #52 - Localization - Russian (Русский) <ru.cfg> - contributed by zer0Kerbal
+  * closes #60 - Version 1.6.3.0-release
+  * closes #61 - 1.6.3.0 Legal MumboJumbo
+  * closes #62 - 1.6.3.0 Update documentation
+  * closes #63 - Release 1.6.3.0-release
+  * closes #64 - 1.6.3.0 Social Media
+* Bug
+  * closes #5 - Tank costs 
+  * closes #12 - Text issue with SMX - anything remaining isn't a Localization issue
+  * closes #15 - Drill patches need updating?
+  * closes #16 - Tanks ModuleCargoPart: packedVolume
+  * closes #11 - Localization  duplicate
+  * closes #46 - Localization - English (United States)] <en-us.cfg>
+  * updates #47 - us-en.cfg should be complete
 
 ## Version 1.6.0.0 -  Eureka!
 
