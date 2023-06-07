@@ -155,7 +155,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Credits and Special Thanks
 
 >* [`Dewar`][auth-link] for creating this cool mod.
->* [`TheKurgan`][thekurgan] for their contributions.
 >* see [Attributions][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -237,7 +236,6 @@ Comment, click, like, share, up-vote, subscribe
 [omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/107737-*/ "Dewar"
-[thekurgan]: https://forum.kerbalspaceprogram.com/index.php?/profile/164104-*/ "TheKurgan"
 [zer0Kerbal]:https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- financial support -->
