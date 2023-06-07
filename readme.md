@@ -67,7 +67,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 >* ![English][EN] English
 >* ![Spanish (Español)][ES] Spanish (Español) - Gracias [Fitiales](https://github.com/Fitiales)
->* ![Russian (Русский)][RU] Russian (Русский) - Spasipo [DirtyThongSniffer](https://github.com/DirtyThongSniffer)
+>* ![Mexican Spanish (Español Mexicano)][MX] Mexican Spanish (Español Mexicano) - Gracias [JamesErvin-5](https://github.com/JamesErvin-5)
+>* ![Russian (Русский)][RU] Russian (Русский) - Spasibo [DirtyThongSniffer](https://github.com/DirtyThongSniffer)
 >* ***your translation here***
 
 ### Help Wanted
@@ -249,6 +250,7 @@ Comment, click, like, share, up-vote, subscribe
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
 [ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"
 [MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
