@@ -9,7 +9,7 @@ updated: 29 May 2023
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 # [The Gold Standard (GOLD)][CURSFG:url]
 
-[![The Gold Standard (GOLD)][SHD:mod]][CURSFG:url]
+[![The Gold Standard (GOLD)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License CC BY-NC-SA 4.0+ARR][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pgs]][pages]
 
@@ -232,29 +232,10 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/json/ksp.json "Kerbal Space Program"
 
-<!-- zer0Kerbal mods -->
-[FND]: https://forum.kerbalspaceprogram.com/index.php?/topic/51430-* "Foundations - in beta now"  
-[QBMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/204753-* "Monero Flags"  
-[QBTT]: https://forum.kerbalspaceprogram.com/index.php?/topic/204750-* "ISRU Thanks But No Tanks (KBTT)"  
-[ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-* "Olympic1's ARP Icons"  
-[BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-* "KaboOom!"
-[GOLD]: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-* "[The Gold Standard! (GOLD"
-[KDVA]: http://forum.kerbalspaceprogram.com/index.php?/topic/202945-* "Keridian Dynamics Vessel Assembly (KDVA)"
-[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
-[SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
-
-<!-- other mods -->
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternate Resource Panel" 
-[crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
-[gpp]: https://forum.kerbalspaceprogram.com/index.php?/topic/152136-* "Galileo Planet Pack"
-[kop]: https://forum.kerbalspaceprogram.com/index.php?/topic/181547-* "Kopernicus"
-[kos]: http://ksp-kos.github.io/KOS_DOC/ "Kerbal Operating System (kOS)"  
-[smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "Stockalike Mining Expansion (SMX)"   
-[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[scnst]: https://forum.kerbalspaceprogram.com/index.php?/topic/72679-* "SCANsat"
-
 <!--- statics -->
+[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
+[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/107737-*/ "Dewar"
 [thekurgan]: https://forum.kerbalspaceprogram.com/index.php?/profile/164104-*/ "TheKurgan"
 [zer0Kerbal]:https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
