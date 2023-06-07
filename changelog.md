@@ -1,19 +1,14 @@
-﻿<!--
-Changelog.cfg v1.0.0.0
-The Gold Standard (GOLD)
-created: 2020 02 25
-updated: 27 Jul 2021 
--->
-
-# Changelog  
+﻿# Changelog  
   
-| modName | The Gold Standard! (GOLD)                                        |
-| ------- | ---------------------------------------------------------------- |
-| license | CC BY-NC-SA 4.0                                                  |
-| website | (https://forum.kerbalspaceprogram.com/index.php?/topic/203990-*) |
-| author  | Dewar and zer0Kerbal                                             |
-  
-## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
+| modName    | The Gold Standard! (GOLD) by Dewar                                |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-NC-SA-4.0+ARR                                               |
+| author     | Dewar and zer0Kerbal                                              |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/203990-*/) |
+| github     | (https://github.com/zer0Kerbal/TheGoldStandard)                   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/TheGoldStandard)      |
+| spacedock  | (https://spacedock.info/mod/963)                                  |
+| ckan       | TheGoldStandard                                                   |
 
 ## Version 1.6.2.1 - 2022-01-23 [KSP 1.12.2]
 
