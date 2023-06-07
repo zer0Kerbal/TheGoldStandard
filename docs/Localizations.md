@@ -25,6 +25,7 @@ has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
+* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
 
 __These localizations for KSP and its DLC's are available through Steam:__
@@ -38,7 +39,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 
 ## Additionally Included
 
-* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * ![한국어][KO] Korean (한국어) <ko.cfg>  
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
