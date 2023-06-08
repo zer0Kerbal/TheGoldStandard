@@ -14,6 +14,22 @@
   * Dependencies (to add functionality to stock parts):
     * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
 
+## Version 1.6.4.0-release - `<EDITION>`
+
+* Released
+  * 08 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.6.4.0
+
+* Add Mexican Spanish (Español Mexicano) localization
+* upscale flags and convert to .dds
+
+>* ![Mexican Spanish (Español Mexicano)][MX] Mexican Spanish (Español Mexicano) - Gracias [JamesErvin-5](https://github.com/JamesErvin-5)
+
+---
+
 ## Version 1.6.3.0 - `<Gold Pans ReStocked>`
 
 * 22 Jan 2022
