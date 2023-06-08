@@ -11,7 +11,7 @@ repository:
   name: TheGoldStandard
 
   # A short description of the repository that will show up on GitHub
-  description: This resource part mod adds the pursuit of space gold and an extremely rare resource called Unobtanium to the game! Adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
+  description: Adds the pursuit of gold and an extremely rare resource called Unobtainium to the game! Eight new parts and and additional functionality to several stock parts in Kerbal Space Program
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/203990-*/
