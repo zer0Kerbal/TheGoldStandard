@@ -92,8 +92,8 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * 📌 Pinned
   * Dependencies:
-    * [ModularManagement (MM)][MM] or [Module Manager][omm]
-    * [Kerbal Space Program][KSP:url] [![][KSP:shld]][KSP:url] [^1]  
+    * [ModularManagement (MM)][MM] or [Module Manager][omm] (to add functionality to stock parts)
+    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Suggests
 
