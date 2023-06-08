@@ -16,3 +16,4 @@
 - [Notices](Notices.md)
 - [PartsCatalog](PartsCatalog.md)
 - [Why](Why.md)
+- [changelog](changelog.md)
