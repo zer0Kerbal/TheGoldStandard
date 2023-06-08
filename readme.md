@@ -13,7 +13,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License CC BY-NC-SA 4.0+ARR][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pgs]][pages]
 
- [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 
 Adds the pursuit of gold and an extremely rare resource called Unobtainium to the game! Mine either of these heavy resources for fun and profit! A great alternative to contract spam! Eight new parts and and additional functionality to several stock parts in Kerbal Space Program.
 
@@ -43,7 +42,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * `Unobtainium` is denser than `Gold`, so ensure to bring adequate dΔ!
 > * Finally a monetary reason to land on Eeloo, Eve, Moho/Icarus, or any of the other seldom visited worlds!
 
-### Preamble by [`TheGoldStandardDewar`][auth-link]  
+### Preamble by [`Dewar`][auth-link]  
 
 > * This mod is not meant to be an easy cash cow; rather, a difficult alternative to contract spam.
 > * There is no `Gold` on Kerbin, and be careful when choosing a mining site as only deposits of >2% (mini drill) or >1.5% (large drill) will yield `Gold Ore`.
@@ -167,6 +166,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 > Forum: [Thread][0:thr] - Download: [SpaceDock][0:dnl] - Source: [SpaceDock][0:src]  
 > License: [![License][0:shd]][0:url] ![License][0:log]
+> [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 
 #### Disclaimer(s)
 >
