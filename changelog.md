@@ -15,7 +15,7 @@
 * 22 Jan 2022
 * Released for Kerbal Space Program 1.12.3
 
-### Updated♻
+### Updated♻ 1.6.3.0
 
 * renamed /Patches --> Compatibility
 
@@ -39,7 +39,7 @@
 
 * closes #54 -  LargeGoldTank and LargeGoldOreTank missing drag cube
 
-### Linting  and file maintenance :deciduous_tree: 
+### Linting  and file maintenance :deciduous_tree:
 
 * all part.cfg's
 * add Dewar and zer0Kerbal to authors
@@ -88,7 +88,7 @@
 * change to equal stock
 * closes #57 - RadialTank packedVolume
 
-### Status
+### Status 1.6.3.0
 
 * Localizations
   * closes #44 - Localization - Spanish (Español) <es-es.cfg> - thank you Fitiales
@@ -113,7 +113,7 @@
 
 ## Version 1.6.2.1 - 2022-01-23 [KSP 1.12.2]
 
-### Status
+### Status 1.6.2.1
 
 * Issues 
   * closes #20 - `TheGoldStandard.version` :congratulations: bug -  contributed by zer0Kerbal
@@ -140,7 +140,9 @@
   * closes #46 - Localization - English (United States)] <en-us.cfg>
   * updates #47 - us-en.cfg should be complete
 
-## Version 1.6.0.0 -  Eureka!
+---
+
+## Version 1.6.0.0 - `<Eureka!>`
 
 * Version 1.6.2.0 - 2021-09-15 [KSP 1.12.2]
 * Version 1.6.0.0-prerelease - 2021-07-25 [KSP 1.12.2]
@@ -148,83 +150,83 @@
 * 2021-06-27
 * For KSP  1.11.2
 
-### Release
+### Release 1.6.0.0
 
 * for KSP 1.11.2
-*  should be last release for 1.11.2
+* should be last release for 1.11.2
 
-### Correction
+### Correction 1.6.0.0
 
 * Gold Smelter localization tags
-  *  they were tagged with an extra '-'
-  *  Thank you to @TheKurgan for finding the following:
+  * they were tagged with an extra '-'
+  * Thank you to @TheKurgan for finding the following:
 
-### Updated
+### Updated 1.6.0.0
 
 * SCANSat.cfg
-    *  renamed SCANSat.cfg -> SCANsat.cfg
-    *  SCANSAT-SENSOR -> SCANSAT_SENSOR
+  * renamed SCANSat.cfg -> SCANsat.cfg
+  * SCANSAT-SENSOR -> SCANSAT_SENSOR
 * GoldOre.cfg
-    *  PLANETARY_RESOURCE -> PLANETARY_RESOURCE
-    *  GLOBAL-RESOURCE _> GLOBAL_RESOURCE
+  * PLANETARY_RESOURCE -> PLANETARY_RESOURCE
+  * GLOBAL-RESOURCE _> GLOBAL_RESOURCE
 * Unobtainium.cfg 
-  *  Split out from GoldOre.cfg
+  * Split out from GoldOre.cfg
 * GoldSmelter.cfg and Patches.cfg
   * INPUT-RESOURCE -> INPUT_RESOURCE
   * OUTPUT-RESOURCE -> OUTPUT_RESOURCE
   *oldSmelter.cfg
   * STAGE_PRIORITY_FLOW -> STAGE_PRIORITY_FLOW
-   * ResouceGeneric.cfg: 'ALL-VESSEL' when should be 'ALL_VESSEL'
+    * ResouceGeneric.cfg: 'ALL-VESSEL' when should be 'ALL_VESSEL'
 * Cargo Pass
-  *  added ModuleCargoPart
+  * added ModuleCargoPart
 * part.cfg pass
-  *  fully updated and modernized all parts
-  *  added @thumbs
-  *  added ModuleFuelJettison
-  *  added DragCubes
+  * fully updated and modernized all parts
+  * added @thumbs
+  * added ModuleFuelJettison
+  * added DragCubes
 * resource.cfg's
-  *  fully updated and modernized all resource definitions
+  * fully updated and modernized all resource definitions
 * Thanks to @Dewar and @HebaruSan and @Skall
   * SpaceDock is now updated
   * CKAN is now updated and unfrozen.
 
-### NEW - but not included
+### NEW - but not included 1.6.0.0
 
 * PartVariants
   * by popular demand, you can now select one of two part variant themed skins for the tanks. The default is The Gold Standard, pun intended; or you can choose stock. Can't get more stock-alike 
   * the hold up is have to account for ReStock.
   * Enterprising players will figure something out.
 
-### Added
+### Added 1.6.0.0
 
 * Stockalike Mining Expansion (SMX)
-  *  added StockalikeMiningExpansion.cfg
-  *  converted to use Localization strings
-  *  based upon @TheProtagonists version https://forum.kerbalspaceprogram.com/index.php?/topic/130325-110x-stockalike-mining-extension-115-release-782020/&do=findComment&comment=3203456
+  * added StockalikeMiningExpansion.cfg
+  * converted to use Localization strings
+  * based upon @TheProtagonists version https://forum.kerbalspaceprogram.com/index.php?/topic/130325-110x-stockalike-mining-extension-115-release-782020/&do=findComment&comment=3203456
 * GoldSmelter
-  *  added resources: ElectricCharge (100,10), Gold (0,5), GoldOre (0,5)
+  * added resources: ElectricCharge (100,10), Gold (0,5), GoldOre (0,5)
   
-### Localization
+### Localization 1.6.0.0
 
 * Localization
-  *  us-en.cfg should be completed
-  *  added localization.md
+  * us-en.cfg should be completed
+  * added localization.md
 
-### Adoption
+### Adoption 1.6.0.0
 
 * -- Adoption by zer0Kerbal --
-  *  Restructure folders
-  *  moved models/textures into /Assets/
-  *  moved patches into /Patches/
-  *  initial Localization push
-  *  created GitHub Repo
-  *  created Curseforge page
-  *  created new forum thread
-  *  removed included Module Manager
-  *  updated to automated backend processes.
-  *  linting and duct taping
+  * Restructure folders
+  * moved models/textures into /Assets/
+  * moved patches into /Patches/
+  * initial Localization push
+  * created GitHub Repo
+  * created Curseforge page
+  * created new forum thread
+  * removed included Module Manager
+  * updated to automated backend processes.
+  * linting and duct taping
 
-### Status
+### Status 1.6.0.0
 
 * closes 4 - bunch of errors where a - was used instead of an _ bug
 * closes 9 - 1.6.1.0 - Underscored for KSP 1.12.1 (07 Aug 2021) bug - contributed by zer0Kerbal
@@ -233,14 +235,20 @@
 * closes #1 - capturing upstream changes - contributed by zer0Kerbal
 * closes 2 - 1.6.0.0 adoption - contributed by zer0Kerbal
 
-## Version 1.5.2 
+---
+
+## Version 1.5.2
 
 * Packaged the latest version of MM to bring the mod upto 1.3
+
+---
 
 ## Version  1.5.1  
 
 * Complete Compatibility with SCANsat and Galileo's Planet Pack  
 * Changed the way resources spawn on planets (more small concentrated veins, less large low concentrated blobs)
+
+---
 
 ## Version  1.5 -  Thanks go to Jadeofmaar for helping me here
 
@@ -249,24 +257,34 @@
 * Cleaned up files
 * Improved compatibility with SCANSat and Galileo's Planet Pack
 
+---
+
 ## Version  1.4.2
 
-*  Fixed stupid typo ftw
+* Fixed stupid typo ftw
+
+---
 
 ## Version  1.4.1
 
-*  Fixed a value that was preventing Unobtainium from spawning in large enough quantities to be mined
+* Fixed a value that was preventing Unobtainium from spawning in large enough quantities to be mined
+
+---
 
 ## Version  1.4
 
-*  Finally got of my butt and updated the mod to 1.2.2
-*  Added Unobtainium 
-*  Added support for GPP and SCANSat
+* Finally got of my butt and updated the mod to 1.2.2
+* Added Unobtainium 
+* Added support for GPP and SCANSat
+
+---
 
 ## Version  1.3 
 
-*  Updated to for KSP 1.2 
-*  Fixed a potential problem with unlimited output for both gold smeltery and stock miniISRUVersion 1
+* Updated to for KSP 1.2 
+* Fixed a potential problem with unlimited output for both gold smeltery and stock miniISRUVersion 1
+
+---
 
 ## Version  1.2
 
@@ -275,11 +293,15 @@
 * Made orbital scanner unlock earlier (The satellite targeting gui is disabled until survey scan)
 * Adjusted Smeltery Output to prevent a very minor exploit
 
+---
+
 ## Version  1.1
 
 * Cleaned up textures
 * Fixed radial attachment points
 * Added Mission Flags
+
+---
 
 ## Version  1.0
 
