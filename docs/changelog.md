@@ -1,3 +1,14 @@
+---
+permalink: /Changelog.html
+title: The Change Log
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
+---
+<!-- hdr-changelog.md v1.0.0.1
+The Gold Standard (GOLD)
+created: 13 May 2022
+updated: 05 Nov 2022
+CC BY-ND 4.0 by zer0Kerbal -->  
 ﻿# Changelog  
   
 | modName    | The Gold Standard! (GOLD) by Dewar                                |
@@ -398,4 +409,4 @@
 * 01 Oct 2016
 * Release
 
-### CC BY-NC-ND 3.0 Unported by zer0Kerbal
+### CC BY-NC-ND 3.0 Unported by zer0Kerbal

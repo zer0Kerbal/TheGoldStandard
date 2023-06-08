@@ -26,7 +26,7 @@ This add-on adds eight (8) resource parts
 ---
 <!-- no toc -->
 * Parts
-  * [Gold Smelter](#gold-smelter)
+  * [Gold Smelter](#GOLD-smelter)
   * Tanks
     * [Radial](#radial-tanks)
     * [Small](#small-tanks)
