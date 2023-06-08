@@ -14,7 +14,7 @@
   * Dependencies (to add functionality to stock parts):
     * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
 
-## Version 1.6.4.0-release - `<EDITION>`
+## Version 1.6.4.0-release - `<Thank you Dewar>`
 
 * Released
   * 08 Jun 2023
@@ -25,8 +25,29 @@
 
 * Add Mexican Spanish (Español Mexicano) localization
 * upscale flags and convert to .dds
+  * add golden version
+* fixed small tanks abandonment issues with _much_ couch time
 
 >* ![Mexican Spanish (Español Mexicano)][MX] Mexican Spanish (Español Mexicano) - Gracias [JamesErvin-5](https://github.com/JamesErvin-5)
+
+### Changes 1.6.4.0
+
+* closes #43 - Localization - Mexican (Mexicano) <es-mx.cfg>
+* updates #47 - Localization - Master
+  * closes #70 - PartLoader WARNING: surface attach node is defined more than once!
+
+### Status 1.6.4.0
+
+* Issues
+* 
+  * closes #71 - The Gold Standard (GOLD) 1.6.4.0-release `<Thank you Dewar>` edition
+  * closes #72 - 1.6.4.0 Additional Tasks
+  * closes #8 - 'Stockalike' textures
+  * closes #7 - B9 Tank Switch
+  * closes #69 - Update The Gold Standard (GOLD)
+  * updates #53 - Maybe a third ore like palladium
+  * updates #50 - Near Future Construction (NFC) Compatibility
+  * updates #49 - Station Parts Expansion Redux (SSPx) Compatibility
 
 ---
 
@@ -325,6 +346,7 @@
 
 ## Version  1.0
 
+* 01 Oct 2016
 * Release
 
 ### CC BY-NC-ND 3.0 Unported by zer0Kerbal
