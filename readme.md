@@ -15,7 +15,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
  [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 
-Adds the pursuit of gold and an extremely rare resource called Unobtainium to the game! Eight new parts and and additional functionality to several stock parts in Kerbal Space Program.
+Adds the pursuit of gold and an extremely rare resource called Unobtainium to the game! Mine either of these heavy resources for fun and profit! A great alternative to contract spam! Eight new parts and and additional functionality to several stock parts in Kerbal Space Program.
 
 By [`zer0Kerbal`][zer0Kerbal], originally by [`Dewar`][auth-link]
 
