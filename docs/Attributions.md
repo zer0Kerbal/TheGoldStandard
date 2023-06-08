@@ -25,10 +25,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Credits
 
->* [`TheKurgan`][thekurgan] for their contributions.
-[auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/107737-*/ "Dewar"
-[thekurgan]: https://forum.kerbalspaceprogram.com/index.php?/profile/164104-*/ "TheKurgan"
-
 <ul>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/107737-*/"><img alt="Dewar" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_03/5ab1cbd340610_TGS-Black.png.5023e99aac93ca6ce9c4e585f307f9a9.png" height="50px" > Dewar</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="The Gold Standard (GOLD)"> The Gold Standard (GOLD)!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
@@ -52,32 +48,29 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Contract(s)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/207619-*/"><img alt="caerfinon" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2022_09/wxImeeP2.thumb.jpg.fdf7794f6380664d5e14876b4232125e.jpg" width="50px" height="50px" > caerfinon</a></li>
-</ul>
+* none yet
 
 ### Translations
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png" alt="English" style="zoom:100%;" /> English</li>
-  <!-- <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png" alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li> -->
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png" alt="Spanish (Español)" style="zoom:100%;" /> Spanish (Español) - Gracias <a href="https://github.com/Fitiales" alt="Fitiales">Fitiales</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - Spasibo <a href="https://github.com/DirtyThongSniffer" alt="DirtyThongSniffer">DirtyThongSniffer</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
-
->* ![Spanish (Español)][ES] Spanish (Español) - Gracias [Fitiales](https://github.com/Fitiales)
->* ![Russian (Русский)][RU] Russian (Русский) - Spasipo [DirtyThongSniffer](https://github.com/DirtyThongSniffer)
 
 ### Special Thanks
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50px" height="50px" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/164104-*/"><img alt="TheKurgan" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_05_2016/the_kurgan_by_robotatomico.jpg.470921fdcb2f594cc7b24956ae446822.thumb.jpg.ff6d1306e2a5fd52131ab39cafdf3398.jpg" width="50px" height="50px" > TheKurgan</a> for the their contributions.</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50px" height="50px" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
 </ul>
 
 ### Art Asset(s)
 
-* Flags
+* Flags - All Rights Reserved
 * Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
