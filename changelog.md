@@ -10,12 +10,16 @@
 | spacedock  | (https://spacedock.info/mod/963)                                  |
 | ckan       | TheGoldStandard                                                   |
 
+* 📌 Pinned
+  * Dependencies (to add functionality to stock parts):
+    * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+
 ## Version 1.6.3.0 - `<Gold Pans ReStocked>`
 
 * 22 Jan 2022
 * Released for Kerbal Space Program 1.12.3
 
-### Updated♻ 1.6.3.0
+### Updated ♻ 1.6.3.0
 
 * renamed /Patches --> Compatibility
 
