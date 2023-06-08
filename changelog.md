@@ -10,8 +10,108 @@
 | spacedock  | (https://spacedock.info/mod/963)                                  |
 | ckan       | TheGoldStandard                                                   |
 
-## Version 1.6.2.1 - 2022-01-23 [KSP 1.12.2]
+## Version 1.6.3.0 - `<Gold Pans ReStocked>`
 
+* 22 Jan 2022
+* Released for Kerbal Space Program 1.12.3
+
+### Updated♻
+
+* renamed /Patches --> Compatibility
+
+### CargoPart Review
+
+* volume review (math shown below)
+* game volume is in Liters (L)
+* closes #48 - Review CargoPart
+* small (1.25m) tanks had their cargo volumes reduced a small amount
+
+#### Math
+
+  | Ore Tanks    |            |           |            | πr²h    | 1000L = m3 |
+  | ------------ | ---------- | --------- | ---------- | ------- | ---------- |
+  | diameter (m) | radius (m) | height(m) | volume m^3 | *1000   |
+  | large        | 2.5        | 1.25      | 1.9000     | 9.3266  | 9326.61    |
+  | small        | 1.25       | 0.625     | 1.9000     | 2.33165 | 2331.66    |
+  | radial       | 0.625      | 0.3125    | 1.0000     | 0.3068  | 306.8      |
+  
+### missing drag cubes
+
+* closes #54 -  LargeGoldTank and LargeGoldOreTank missing drag cube
+
+### Linting  and file maintenance :deciduous_tree: 
+
+* all part.cfg's
+* add Dewar and zer0Kerbal to authors
+* minor housekeeping  
+* patch dusting (mostly removing construction dust (comments)) 
+
+### Squad-Tanks patches
+
+* rename [Squad.cfg] to [Squad-Tanks.cfg] 1.2.0.0
+* add [ModuleCargoPart] to all
+  * Radial: 340 (already there)
+  * Small: 2350
+  * Large: 9500
+* update patch license
+* closes #55 - Squad-Tank patches
+
+### Squad patches
+
+* rename [Patches.cfg] to [Squad.cfg] 1.2.0.0
+* remove sneaky little `MODULE[ModuleResourceHarvester]`
+* Undo localization on some items
+  * ResourceName
+  * resourceName
+* update patch license
+* closes #56 - Squad patches
+
+### Update [StockalikeMiningExpansion.cfg] v1.1.1.0
+
+* update patch license
+
+### Update [SCANSat.cfg] 1.1.0.2
+
+* rename [Scansat.cfg] to [SCANSat.cfg] 1.1.0.2
+* update patch license
+* linting
+
+### Add Restock.restockwhitelist
+
+* closes #6 - ReStock compliance
+* closes #58 - Add Restock.restockwhitelist
+
+### RadialTank packedVolume
+
+* currently is packedVolume = 325
+* stock is packedVolume = 340
+* change to equal stock
+* closes #57 - RadialTank packedVolume
+
+### Status
+
+* Localizations
+  * closes #44 - Localization - Spanish (Español) <es-es.cfg> - thank you Fitiales
+  * closes #65 - Localization - Russian (Русский) <ru.cfg> - thank you to DirtyThongSniffer
+* Issues 
+  * updates #47 - us-en.cfg should be complete
+  * closes #46 - Localization - English (United States)] <en-us.cfg>
+  * closes - #60 - Version 1.6.3.0-release
+  * closes - #61 - 1.6.3.0 Legal MumboJumbo
+  * closes - #62 - 1.6.3.0 Update documentation
+  * closes - #63 - Release 1.6.3.0-release
+  * closes - #64 - 1.6.3.0 Social Media
+* Bug
+  * closes #5 - Tank costs 
+  * closes #12 - Text issue with SMX - anything remaining isn't a Localization issue
+  * closes #15 - Drill patches need updating?
+  * closes #16 - Tanks ModuleCargoPart: packedVolume
+  * updates #11 - us-en.cfg should be complete
+  * closes #27 - Empty Ore Tanks result in Negative Funds Career Mode
+
+---
+
+## Version 1.6.2.1 - 2022-01-23 [KSP 1.12.2]
 
 ### Status
 
