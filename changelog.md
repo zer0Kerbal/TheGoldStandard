@@ -24,11 +24,12 @@
 
 ### Change Summary 1.6.4.0
 
+* fixed small tanks abandonment issues with _much_ couch time
+* The Gold Smelter's Cooling Conundrum should now be resolved, it needed extra heavy duty cooling fluid and much larger cooling lines!
+* can now search for `gold` or `tgs` in editors to find parts
 * Add localization: Mexican Spanish (Español Mexicano) [JamesErvin-5](https://github.com/JamesErvin-5)
 * upscale flags and convert to .dds
   * add golden version
-* fixed small tanks abandonment issues with _much_ couch time
-* can now search for `gold` or `tgs` in editors to find parts
 * cleaned up tags
 * clean, lint, modernize
 * update documentation
@@ -38,8 +39,10 @@
 
 #### Parts 1.6.4.0
 
+* The Gold Smelter's Cooling Conundrum should now be resolved, it needed extra heavy duty cooling fluid and much larger cooling lines!
 * cleaned up tags
 * clean, lint, modernize
+* closes #73 - [BUG] Gold Smelter Cooling Conundrum
 
 #### Config 1.6.4.0
 
