@@ -13,6 +13,7 @@
 * 📌 Pinned
   * Dependencies (to add functionality to stock parts):
     * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+  * can now search for `gold` or `tgs` in editors to find parts
 
 ## Version 1.6.4.0-release - `<Thank you Dewar>`
 
@@ -23,28 +24,67 @@
 
 ### Change Summary 1.6.4.0
 
-* Add Mexican Spanish (Español Mexicano) localization
+* Add localization: Mexican Spanish (Español Mexicano) [JamesErvin-5](https://github.com/JamesErvin-5)
 * upscale flags and convert to .dds
   * add golden version
 * fixed small tanks abandonment issues with _much_ couch time
-
->* ![Mexican Spanish (Español Mexicano)][MX] Mexican Spanish (Español Mexicano) - Gracias [JamesErvin-5](https://github.com/JamesErvin-5)
+* can now search for `gold` or `tgs` in editors to find parts
+* cleaned up tags
+* clean, lint, modernize
+* update documentation
+* update stock config patch to remove redundant patch
 
 ### Changes 1.6.4.0
 
+#### Parts 1.6.4.0
+
+* cleaned up tags
+* clean, lint, modernize
+
+#### Config 1.6.4.0
+
+* add headers
+* fixed small tanks abandonment issues with _much_ couch time
+  * update stock config patch to remove redundant patch
+* closes #70 - PartLoader WARNING: surface attach node is defined more than once!
+
+#### Flags 1.6.4.0
+
+* Update
+  * upscale
+  * convert to .dds
+    * [TGS-Black.dds]
+    * [TGS-White.dds]
+* Add
+  * [TGS-Gold.dds] -  golden version
+
+#### Localization 1.6.4.0
+
+* Add
+  * Mexican (Mexicano)
+    * [es-mx.cfg] v1.0.0.0
+    * Gracias [JamesErvin-5](https://github.com/JamesErvin-5)
+  * [readme-ru.md]
+  * [quickstart-ru.md]
+* Update
+  * add header, give credit
+    * [en-us.cfg] v1.1.3.0
+    * [es-es.cfg] v1.1.3.0
+    * [es-mx.cfg] v1.1.3.0
+    * [ru.cfg] v1.1.3.0
+  * [quickstart.md]
+  * [readme.md]
 * closes #43 - Localization - Mexican (Mexicano) <es-mx.cfg>
 * updates #47 - Localization - Master
-  * closes #70 - PartLoader WARNING: surface attach node is defined more than once!
 
 ### Status 1.6.4.0
 
 * Issues
-* 
   * closes #71 - The Gold Standard (GOLD) 1.6.4.0-release `<Thank you Dewar>` edition
   * closes #72 - 1.6.4.0 Additional Tasks
-  * closes #8 - 'Stockalike' textures
-  * closes #7 - B9 Tank Switch
   * closes #69 - Update The Gold Standard (GOLD)
+  * updates #8 - 'Stockalike' textures
+  * updates #7 - B9 Tank Switch
   * updates #53 - Maybe a third ore like palladium
   * updates #50 - Near Future Construction (NFC) Compatibility
   * updates #49 - Station Parts Expansion Redux (SSPx) Compatibility
