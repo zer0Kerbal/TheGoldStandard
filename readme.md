@@ -15,9 +15,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
  [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 
-This resource part mod adds eight new parts and adds functionality to several stock parts in Kerbal Space Program.
-
-This mod adds the pursuit of gold and an extremely rare resource called Unobtainium to the game!
+Adds the pursuit of gold and an extremely rare resource called Unobtainium to the game! Eight new parts and and additional functionality to several stock parts in Kerbal Space Program.
 
 By [`zer0Kerbal`][zer0Kerbal], originally by [`Dewar`][auth-link]
 
