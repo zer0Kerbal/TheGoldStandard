@@ -118,7 +118,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleLife! (LIFE)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife)
 * [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
-* [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Stack Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
 * Science!
   * [Mkerb Science Instruments](https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments)
   * [OScience Laboratories (OSL)](https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
